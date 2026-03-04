@@ -1,2 +1,2 @@
-version=1.6.5
-url=https://1drv.ms/u/c/3a52c655bc411976/IQBod4xddVX8QJKlH2zYnQJvAdGeaJJ0-kkJ-C0GZrL3c88?e=EU3kI7
+version=1.6.6
+url=https://1drv.ms/u/c/3a52c655bc411976/IQCpXzbomualQIJodKgpoUbeAVs-6JxcIsb8ydAOiEzBnxE?e=0bg7wU
