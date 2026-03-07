@@ -1,2 +1,2 @@
-version=1.6.6
-url=https://1drv.ms/u/c/3a52c655bc411976/IQCpXzbomualQIJodKgpoUbeAVs-6JxcIsb8ydAOiEzBnxE?e=0bg7wU
+version=1.6.7
+url=https://1drv.ms/u/c/3a52c655bc411976/IQCZQcpOt5ATTZ83LGTl7YqOAU8D4W4YFJyjonIrpS7w8rA?e=BoSchi
