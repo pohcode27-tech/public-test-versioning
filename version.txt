@@ -1,2 +1,5 @@
-version=1.7.2
-url=https://1drv.ms/u/c/3a52c655bc411976/IQBwQZ_s9RqPTYo5JD8xJHqrAUjFuOsb20sjOV2SGgvbWJc?e=Hz860s
+version=1.7.3
+url=https://1drv.ms/u/c/3a52c655bc411976/IQB4p9ovSC95QoXtm6Mi3uwFAXtNy57G0kzGUCkMO8EiZ9Y?e=gnczEV
+url_arm64-v8a=https://1drv.ms/u/c/3a52c655bc411976/IQDC-AsXA1Q2TJ7n5HJx3z8DAU7-hqzPpHyjmjLWumL-9Dw?e=RxaAnP
+url_armeabi-v7a=https://1drv.ms/u/c/3a52c655bc411976/IQD80PTSlYxAQagcSdHbdvHcAevjN6sSxJ9t2ect_k5jubk?e=GDS6Kk
+url_x86_64=https://1drv.ms/u/c/3a52c655bc411976/IQDuKgoj-P4iRKcHvGGPbCpPAaIX8l3LgMQc79Xw91zAuY0?e=PgLjMa
