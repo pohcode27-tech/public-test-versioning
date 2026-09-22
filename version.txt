@@ -1,6 +1,6 @@
 version=2.1.2
 url=https://1drv.ms/u/c/3a52c655bc411976/IQAX9I-0Fg3-R7SlcqE7edpDAe075ydj3LbzelNOQfz5cFY?e=iDNtRQ
 url_arm64-v8a=https://1drv.ms/u/c/3a52c655bc411976/IQAXYpjNvrT2QJZGFFod2ACGAaYTBgFx06_Aa7MZuteEpYE?e=KLEfHY
-url_armeabi-v7a=https://1drv.ms/u/c/3a52c655bc411976/IQBdjJhvMC-GRrB4TYjJAQQPAaUeiaoEAxEplw78CkHDkvs?e=KFaUnK
+url_armeabi-v7a=https://www.dropbox.com/scl/fi/9wx16w1k3da92g2z5snze/212app-armeabi-v7a-release.apk?rlkey=qskns3q5iujrxq4afn6dq2ju8&st=ith9ztfr&dl=1
 url_x86_64=https://1drv.ms/u/c/3a52c655bc411976/IQDTALqMps0NTpIZcHDUhvZXASQbpPIpexNutcIiEj9P_CI?e=g5JKDC
 url_x86=https://1drv.ms/u/c/3a52c655bc411976/IQCL_ZEfWgNFSp_q7BDMjK_FAazc1HK1xJvDRFnRccOvrwk?e=TsSctB
