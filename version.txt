@@ -1,6 +1,6 @@
-version=2.1.2
-url=https://1drv.ms/u/c/3a52c655bc411976/IQAX9I-0Fg3-R7SlcqE7edpDAe075ydj3LbzelNOQfz5cFY?e=iDNtRQ
-url_arm64-v8a=https://1drv.ms/u/c/3a52c655bc411976/IQAXYpjNvrT2QJZGFFod2ACGAaYTBgFx06_Aa7MZuteEpYE?e=KLEfHY
-url_armeabi-v7a=https://www.dropbox.com/scl/fi/9wx16w1k3da92g2z5snze/212app-armeabi-v7a-release.apk?rlkey=qskns3q5iujrxq4afn6dq2ju8&st=ith9ztfr&dl=1
-url_x86_64=https://1drv.ms/u/c/3a52c655bc411976/IQDTALqMps0NTpIZcHDUhvZXASQbpPIpexNutcIiEj9P_CI?e=g5JKDC
-url_x86=https://1drv.ms/u/c/3a52c655bc411976/IQCL_ZEfWgNFSp_q7BDMjK_FAazc1HK1xJvDRFnRccOvrwk?e=TsSctB
+version=2.1.3
+url=https://1drv.ms/u/c/3a52c655bc411976/IQBHIShBPgvtQa1b2FYZUlGzAYixwBtMt9Siw4vcjce1uHY?e=HU9sxi
+url_arm64-v8a=https://1drv.ms/u/c/3a52c655bc411976/IQB1_EBX33PXQqp09n6I_xnHAfCY_0-ijhh2wMD-of7anlE?e=NyS2bD
+url_armeabi-v7a=https://1drv.ms/u/c/3a52c655bc411976/IQCBzxN6g28UT5kRzK_zdgJ6AbTog0g6nFsywHQi0tBNr5s?e=zjFR7D
+url_x86_64=https://1drv.ms/u/c/3a52c655bc411976/IQCXFMpAWa4mRonGOVkwE7l0Af-cFqF1kKxvo_8SnGkhHAk?e=94N9No
+url_x86=https://1drv.ms/u/c/3a52c655bc411976/IQBk-s91QhDwTKQk2tkiS7S6ATlUPHsA07LeDLKQU5tNv3M?e=hjFvEY
