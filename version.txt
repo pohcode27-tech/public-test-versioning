@@ -1,6 +1,6 @@
 version=2.1.3
-url=https://1drv.ms/u/c/3a52c655bc411976/IQBHIShBPgvtQa1b2FYZUlGzAYixwBtMt9Siw4vcjce1uHY?e=HU9sxi
+url=https://www.dropbox.com/scl/fi/nmpf6n2w6h7r174txlw9z/213app-universal-release.apk?rlkey=qtzu76dg1l3fzcqczhw3bynpe&st=zaij677m&dl=0
 url_arm64-v8a=https://www.dropbox.com/scl/fi/bfkhxy4uyq328q0y66km5/213app-arm64-v8a-release.apk?rlkey=l58ims8opjktnqcm1e1k9dag1&st=n3p9aa6b&dl=0
-url_armeabi-v7a=https://1drv.ms/u/c/3a52c655bc411976/IQCBzxN6g28UT5kRzK_zdgJ6AbTog0g6nFsywHQi0tBNr5s?e=zjFR7D
-url_x86_64=https://1drv.ms/u/c/3a52c655bc411976/IQCXFMpAWa4mRonGOVkwE7l0Af-cFqF1kKxvo_8SnGkhHAk?e=94N9No
-url_x86=https://1drv.ms/u/c/3a52c655bc411976/IQBk-s91QhDwTKQk2tkiS7S6ATlUPHsA07LeDLKQU5tNv3M?e=hjFvEY
+url_armeabi-v7a=https://www.dropbox.com/scl/fi/sky2hw2smjf9mwdshr67q/213app-armeabi-v7a-release.apk?rlkey=sdxhbhdvdvyfjfypmsnv60rxn&st=cdvc7w04&dl=0
+url_x86_64=https://www.dropbox.com/scl/fi/giux18kklvi1i14tnw8mp/213app-x86_64-release.apk?rlkey=dez0pnzgpeqndf5yofhe6buox&st=o0es9207&dl=0
+url_x86=https://www.dropbox.com/scl/fi/fi96xe1ej9vit29bv9q02/213app-x86-release.apk?rlkey=1596flsyabytmnpn4uqiswtsn&st=4ypymo1z&dl=0
