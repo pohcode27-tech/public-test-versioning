@@ -1,6 +1,6 @@
 version=2.1.3
 url=https://1drv.ms/u/c/3a52c655bc411976/IQBHIShBPgvtQa1b2FYZUlGzAYixwBtMt9Siw4vcjce1uHY?e=HU9sxi
-url_arm64-v8a=https://www.dropbox.com/scl/fi/bfkhxy4uyq328q0y66km5/213app-arm64-v8a-release.apk?rlkey=l58ims8opjktnqcm1e1k9dag1&st=ua4w62fk&dl=1
+url_arm64-v8a=https://www.dropbox.com/scl/fi/bfkhxy4uyq328q0y66km5/213app-arm64-v8a-release.apk?rlkey=l58ims8opjktnqcm1e1k9dag1&st=n3p9aa6b&dl=1
 url_armeabi-v7a=https://1drv.ms/u/c/3a52c655bc411976/IQCBzxN6g28UT5kRzK_zdgJ6AbTog0g6nFsywHQi0tBNr5s?e=zjFR7D
 url_x86_64=https://1drv.ms/u/c/3a52c655bc411976/IQCXFMpAWa4mRonGOVkwE7l0Af-cFqF1kKxvo_8SnGkhHAk?e=94N9No
 url_x86=https://1drv.ms/u/c/3a52c655bc411976/IQBk-s91QhDwTKQk2tkiS7S6ATlUPHsA07LeDLKQU5tNv3M?e=hjFvEY
