@@ -1,6 +1,6 @@
-version=2.1.3
-url=https://www.dropbox.com/scl/fi/nmpf6n2w6h7r174txlw9z/213app-universal-release.apk?rlkey=qtzu76dg1l3fzcqczhw3bynpe&st=zaij677m&dl=0
-url_arm64-v8a=https://www.dropbox.com/scl/fi/bfkhxy4uyq328q0y66km5/213app-arm64-v8a-release.apk?rlkey=l58ims8opjktnqcm1e1k9dag1&st=n3p9aa6b&dl=0
-url_armeabi-v7a=https://www.dropbox.com/scl/fi/sky2hw2smjf9mwdshr67q/213app-armeabi-v7a-release.apk?rlkey=sdxhbhdvdvyfjfypmsnv60rxn&st=cdvc7w04&dl=0
-url_x86_64=https://www.dropbox.com/scl/fi/giux18kklvi1i14tnw8mp/213app-x86_64-release.apk?rlkey=dez0pnzgpeqndf5yofhe6buox&st=o0es9207&dl=0
-url_x86=https://www.dropbox.com/scl/fi/fi96xe1ej9vit29bv9q02/213app-x86-release.apk?rlkey=1596flsyabytmnpn4uqiswtsn&st=4ypymo1z&dl=0
+version=2.1.4
+url=https://www.dropbox.com/scl/fi/d6lrj45orowbu0e3r9ps3/214app-universal-release.apk?rlkey=pwc91do4m84ybzvd1og44yy7l&st=sga5pgmm&dl=0
+url_arm64-v8a=https://www.dropbox.com/scl/fi/i3kximq8iwrmphzblsjor/214app-arm64-v8a-release.apk?rlkey=8et2xb4xyzjro2mc6jh55uwgm&st=fgjkpham&dl=0
+url_armeabi-v7a=https://www.dropbox.com/scl/fi/povyku07ud0ezhrd8wcte/214app-armeabi-v7a-release.apk?rlkey=ab8k7enwdtew9oe6ynmbpm2jn&st=ylxsoyed&dl=0
+url_x86_64=https://www.dropbox.com/scl/fi/a7yyzkugr91km1484gaz2/214app-x86_64-release.apk?rlkey=exs143j2gpxrgnb9txu1bwznf&st=gmp9t233&dl=0
+url_x86=https://www.dropbox.com/scl/fi/078w6r2etshlepx6t6wzo/214app-x86-release.apk?rlkey=5xpbw910ca31ckdaci6ik5h9q&st=t9b3f47x&dl=0
