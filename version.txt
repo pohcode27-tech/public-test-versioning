@@ -1,6 +1,6 @@
-version=2.1.5
-url=https://www.dropbox.com/scl/fi/74z7fa32csr4rdufa765v/215app-universal-release.apk?rlkey=wiw6my1kq13pjscisxcmqhmqx&st=np67qsle&dl=0
-url_arm64-v8a=https://www.dropbox.com/scl/fi/fsee6dsjz3o594skmrzlf/215app-arm64-v8a-release.apk?rlkey=ffxxixzskcewdd7hmjjwstfy6&st=o0h9ecbe&dl=0
-url_armeabi-v7a=https://www.dropbox.com/scl/fi/b2nw4k4lbugw11nchimca/215app-armeabi-v7a-release.apk?rlkey=3huajh8prq2wggmlytpgq2wui&st=dgpz7o3l&dl=0
-url_x86_64=https://www.dropbox.com/scl/fi/twu41rilc4x9fq9oue91a/215app-x86_64-release.apk?rlkey=4l5t60tpmgi60mz8ykfucu6y5&st=zymuz9h8&dl=0
-url_x86=https://www.dropbox.com/scl/fi/i8cx2bvesbd4nc0qvpalc/215app-x86-release.apk?rlkey=88hjaagv5injleh0c8z6csq2v&st=6xlil3hm&dl=0
+version=2.1.6
+url=https://1drv.ms/u/c/3a52c655bc411976/IQBEW3IKiC55SbacDPlqYPmJASmDVH-FvvOqrq4NCCoszpQ?e=7b6h4t
+url_arm64-v8a=https://1drv.ms/u/c/3a52c655bc411976/IQA17Pov3zeGSo0WulaORyhDARBSuKeGxSPVnznQpmPGftU?e=WBTLou
+url_armeabi-v7a=https://1drv.ms/u/c/3a52c655bc411976/IQAD_JqkKNFsSaVZ7WyRiTTAAVT49PSKbEPLBHv0WuSaVgs?e=6jT5da
+url_x86_64=https://1drv.ms/u/c/3a52c655bc411976/IQATuT0ELUKmRr9vqOCWNBBIAcz8j6zKrl4wHUqWQn5uiYk?e=pNfQPm
+url_x86=https://1drv.ms/u/c/3a52c655bc411976/IQB7NgTVDRTDSJzF5CXotv3ZAWN3s_8wzxhIAJxT2iiW6Ss?e=t2aMJ1
