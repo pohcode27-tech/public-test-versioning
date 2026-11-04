@@ -1,6 +1,6 @@
-version=2.1.8
-url=https://1drv.ms/u/c/3a52c655bc411976/IQDcM2g8Kg3wSY8MAiG6yxapASynnHHzmsC_vsJGqe-Y_Gw?e=87T5r7
-url_arm64-v8a=https://1drv.ms/u/c/3a52c655bc411976/IQCTtR5cv68PQq4n9axiWOk4ARB9JIbN3UwcC-Ff-8wz2Ao?e=vMJ4MM
-url_armeabi-v7a=https://1drv.ms/u/c/3a52c655bc411976/IQDZVvRozctXQo3NikRSpTPXAflybqRXkhItWvrcCMTWEy0?e=Jnomjh
-url_x86_64=https://1drv.ms/u/c/3a52c655bc411976/IQAhhQPSPsW4SrOSzfVHyztDAc0UrxX8RA5l40SoJGdIfVo?e=YvZcsr
-url_x86=https://1drv.ms/u/c/3a52c655bc411976/IQAbO2SLxLUyS6EH79tgqStnASPlXuRRGReqhC5xU7ab_E0?e=GOxhii
+version=2.1.9
+url=https://1drv.ms/u/c/3a52c655bc411976/IQDuhfOjI4HpRor4ZlE5V_vyAWMQ4vQw-Djv58q0J8GKCqE?e=FqAuES
+url_arm64-v8a=https://1drv.ms/u/c/3a52c655bc411976/IQC3N2s7K35uQLZM-aBq1DhdAd6-9iX5XifV5gbrizuOyAA?e=oTVZOo
+url_armeabi-v7a=https://1drv.ms/u/c/3a52c655bc411976/IQAtqgVRwH9JRa7GvJxTTymaAVDSMts4mTlMqmrU4lvEb5A?e=fthYRy
+url_x86_64=https://1drv.ms/u/c/3a52c655bc411976/IQC1bciOwIdCTafz_bDN_urgAatsEYodB7-WtU-el8Xft40?e=CrQEeK
+url_x86=https://1drv.ms/u/c/3a52c655bc411976/IQBJ6KEP8VOGQ4qLgjlMb78NAUvTQB15V493-qMNDWUEO2I?e=8qZa2U
